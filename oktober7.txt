@@ -1,0 +1,19 @@
+A csoport
++1
+<!DOCTYPE html>
+<html='hu'>
+<charset='utf-8'>
+<html>
+    <meta>
+    <meta>
+    <meta>
+    <title>
+</html>
+<body>
+</body>
+2.
+<meta htpp-equiv='refresh conetent='10' />
+4.
+<meta author name='Gergő' />
+5.
+<img src='../../alt= kép 'jgp' />
